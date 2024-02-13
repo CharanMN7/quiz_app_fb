@@ -25,7 +25,7 @@ class _StartScreenState extends State<StartScreen> {
             "Test your Flutter prowess on the go!",
             style: TextStyle(
               fontSize: 20,
-              color: Colors.blueAccent,
+              color: Colors.blue,
             ),
           ),
           const SizedBox(
@@ -36,7 +36,7 @@ class _StartScreenState extends State<StartScreen> {
             icon: const Icon(Icons.chevron_right_rounded),
             label: const Text("Start Quiz"),
             style: ElevatedButton.styleFrom(
-              foregroundColor: Colors.blueAccent,
+              foregroundColor: Colors.blue,
             ),
           )
         ],
