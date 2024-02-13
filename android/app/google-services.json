@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318790376010",
+    "project_id": "ff-quiz-app",
+    "storage_bucket": "ff-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318790376010:android:f153a19b7cb7f393d564b3",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5vlSuqvDGu4PulimTIXnHH9DUJ5PY2-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
