@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_app_fb/quiz_screen.dart';
-import 'package:quiz_app_fb/start_screen.dart';
+import 'package:quiz_app_fb/views/quiz_screen.dart';
+import 'package:quiz_app_fb/views/start_screen.dart';
 
 class QuizApp extends StatefulWidget {
   const QuizApp({super.key});
