@@ -52,6 +52,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '318790376010',
     projectId: 'ff-quiz-app',
     authDomain: 'ff-quiz-app.firebaseapp.com',
+    databaseURL: 'https://ff-quiz-app-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'ff-quiz-app.appspot.com',
     measurementId: 'G-BKHKMQFDN1',
   );
@@ -61,6 +62,7 @@ class DefaultFirebaseOptions {
     appId: '1:318790376010:android:f153a19b7cb7f393d564b3',
     messagingSenderId: '318790376010',
     projectId: 'ff-quiz-app',
+    databaseURL: 'https://ff-quiz-app-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'ff-quiz-app.appspot.com',
   );
 
@@ -69,6 +71,7 @@ class DefaultFirebaseOptions {
     appId: '1:318790376010:ios:033b978978f9824fd564b3',
     messagingSenderId: '318790376010',
     projectId: 'ff-quiz-app',
+    databaseURL: 'https://ff-quiz-app-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'ff-quiz-app.appspot.com',
     iosBundleId: 'com.example.quizAppFb',
   );
